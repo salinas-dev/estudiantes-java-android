@@ -1,0 +1,28 @@
+ <resources>
+     <string name="app_name">Colegiatura</string>
+     <string name="nivel_educativo">Nivel educativo</string>
+     <string name="num_materias">Número de materias</string>
+     <string name="promedio">Promedio</string>
+     <string name="calcular">Calcular</string>
+     <string name="precio_total">Precio total de la colegiatura:</string>
+     <string name="iva">IVA:</string>
+     <string name="descuento">Descuento:</string>
+     <string name="monto_total">Monto total a pagar:</string>
+
+     <string-array name="niveles">
+         <item>Secundaria</item>
+         <item>Bachillerato</item>
+         <item>Universidad</item>
+     </string-array>
+
+     <string-array name="num_materias">
+         <item>1</item>
+         <item>2</item>
+         <item>3</item>
+         <item>4</item>
+         <item>5</item>
+         <item>6</item>
+         <item>7</item>
+         <item>8</item>
+     </string-array>
+ </resources>
